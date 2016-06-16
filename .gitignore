@@ -1,2 +1,5 @@
+build
+dist
+django_templatetag_sugar.egg-info
 *.pyc
 *.pyo
